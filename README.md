@@ -1,16 +1,50 @@
-## Hi there 👋
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:9BE7FF,100:75C2F6&height=200&section=header&text=Welcome%20to%20My%20GitHub!%20👩‍💻&fontSize=30&fontAlign=center)
 
-<!--
-**HanaElhady/HanaElhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Hana Ahmed
 
-Here are some ideas to get you started:
+I'm a passionate **Computer Engineering student** who loves building, learning, and solving real-world problems through technology. I enjoy working on projects that combine **hardware, software, and logic** — from embedded systems to full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Fourth-year Computer Engineering student  
+- 🔧 I love working with **embedded systems**, **microcontrollers**, and **FreeRTOS**  
+- 🌐 Also experienced in **web development** using **Laravel**, **React**, and **Next.js**  
+- 🤝 I enjoy working in teams, especially on challenging and meaningful projects  
+- 🌱 Currently diving deeper into **real-time systems**, **VHDL**, and **full-stack development**
+
+---
+
+## 🛠 Skills
+
+**Languages & Technologies:**
+
+- `C` / `C++` / `Python` / `PHP` / `JavaScript` / `VHDL`  
+- `HTML` / `CSS` / `Laravel` / `React` / `Next.js`  
+- `MySQL` / `MongoDB`  
+- `Arduino` / `AVR (ATmega32)` / `FreeRTOS`  
+- `Git` / `GitHub` / `VS Code` / `Proteus` 
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: [linkedin.com/HanaElhady](https://www.linkedin.com/in/hana-elhady-68250318a/)  
+
+---
+
