@@ -67,5 +67,5 @@ I pour my curiosity and creativity into every project I build 💡
 ---
 
 <p align="center">
-  ✨ Thank you for visiting! I'm always open to learning, collaboration, and turning ideas into reality ✨
+✨ Thanks for the visit! My brain runs on coffee, code, and creative ideas – let’s team up! ✨
 </p>
