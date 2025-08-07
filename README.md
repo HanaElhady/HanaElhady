@@ -1,5 +1,3 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:9BE7FF,100:75C2F6&height=200&section=header&text=Welcome%20to%20My%20GitHub!%20👩‍💻&fontSize=30&fontAlign=center)
-
 # Hi there! 👋 I'm Hana Ahmed
 
 I'm a passionate **Computer Engineering student** who loves building, learning, and solving real-world problems through technology. I enjoy working on projects that combine **hardware, software, and logic** — from embedded systems to full-stack web applications.
@@ -32,11 +30,11 @@ I'm a passionate **Computer Engineering student** who loves building, learning, 
 
 <div align="center">
 
-![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanaElhady&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaElhady&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanaElhady&theme=tokyonight&hide_border=true)
 
 </div>
 
