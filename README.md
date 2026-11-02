@@ -20,20 +20,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🐳 [Containerized Notes Application](https://github.com/HanaElhady/YOUR_REPO_NAME)
-A multi-container **Flask + MySQL** app orchestrated with Docker Compose.
-
-- Full stack starts with a single `docker compose up` command
-- Service networking, environment variables, and persistent storage with volumes
-- Health checks and service dependencies so the app starts only when the database is ready
-- Debugged readiness and connectivity issues using container logs
-
-**Stack:** `Docker` · `Docker Compose` · `Flask` · `MySQL`
-
----
-
 ## 🔧 DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
